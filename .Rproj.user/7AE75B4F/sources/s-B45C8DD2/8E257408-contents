@@ -1,0 +1,8 @@
+library(tidyquant)
+library(xts)
+options("getSymbols.warning4.0"=FALSE)
+options("getSymbols.yahoo.warning"=FALSE)
+
+getSymbols("RNO.PA", from = '1997-01-01',
+           to = "2020-03-01",warnings = FALSE,
+           auto.assign = TRUEM )

@@ -1,0 +1,32 @@
+{
+    "id": "958E8487",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602075130624.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "drivers",
+        "caption": "drivers",
+        "totalObservations": 848,
+        "displayedObservations": 848,
+        "variables": 9,
+        "cacheKey": "C95A5DED",
+        "object": "drivers",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=drivers&cache_key=C95A5DED&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 141300438308749312,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602075130624,
+    "read_only": false,
+    "read_only_alternatives": []
+}

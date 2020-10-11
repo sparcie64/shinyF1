@@ -1,0 +1,32 @@
+{
+    "id": "159ED43A",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602075164164.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "constructors",
+        "caption": "constructors",
+        "totalObservations": 211,
+        "displayedObservations": 211,
+        "variables": 5,
+        "cacheKey": "828456C9",
+        "object": "constructors",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=constructors&cache_key=828456C9&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7957702707510404206,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602075164164,
+    "read_only": false,
+    "read_only_alternatives": []
+}
